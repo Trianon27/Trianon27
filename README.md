@@ -7,7 +7,7 @@
 
 
 # 💻 Technologies I'm familiar with:
-<div align="center">
+<div>
 <h2>Languages</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c">
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%23ED1944?style=for-the-badge&logo=openJdk">
@@ -19,7 +19,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=black">
 </div>
 
-<div align="center">
+<div>
 <h2>FrameWorks and libraries</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/TailWind%20CSS%20-%20%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
@@ -42,7 +42,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/JSON%20Web%20Tokens-%23000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 </div>
 
-<div align="center">
+<div>
 <h2>Data bases</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -52,14 +52,14 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
-<div align="center">
+<div>
 <h2> Deployment services</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 </div>
 
-<div align="center">
+<div>
 <h2> Other interesting tools </h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
@@ -71,7 +71,8 @@
 
 
 ## 🌐 Social Media:
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsantiago-alexander-rodr%25C3%25ADguez-triana-063421209%2F">
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/santiago-alexander-rodr%C3%ADguez-triana-063421209/)
 
 
  
