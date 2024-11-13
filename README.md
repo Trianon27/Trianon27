@@ -7,7 +7,7 @@
 
 
 # 💻 Technologies I'm familiar with:
-
+<div align="center">
 <h2>Languages</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c">
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%23ED1944?style=for-the-badge&logo=openJdk">
@@ -17,7 +17,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript">
 <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=black">
+</div>
 
+<div align="center">
 <h2>FrameWorks and libraries</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/TailWind%20CSS%20-%20%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
@@ -38,9 +40,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Yarn-%232C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/JSON%20Web%20Tokens-%23000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+</div>
 
-
-
+<div align="center">
 <h2>Data bases</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -48,14 +50,16 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/PostgresSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
+</div>
 
-
-
+<div align="center">
 <h2> Deployment services</h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+</div>
 
+<div align="center">
 <h2> Other interesting tools </h2>
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
@@ -63,7 +67,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
+</div>
 
 
 ## 🌐 Social Media:
