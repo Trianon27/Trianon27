@@ -78,8 +78,17 @@
  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Trianon27&theme=dark&show_icons=true&locale=en&hide=Jupyter%20Notebook&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Trianon27&theme=dark&hide_border=false)<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trianon27&theme=dark&show_icons=true&locale=en&hide=Jupyter%20Notebook&layout=compact" alt="Trianon27's Top Languages" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Trianon27&theme=dark&hide_border=false" alt="Trianon27's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Trianon27&theme=dark&show_icons=true&rank_icon=github" alt="Trianon27's Stats" />
+</div>
+
+
 
 <!--
 **Trianon27/Trianon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
